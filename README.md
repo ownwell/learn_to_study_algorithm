@@ -35,4 +35,5 @@
 就举个例子吧
 假设数组A = <5,2,4,6,1,3>
 
+![image](http://ownwell.github.io/image/insert_sort.png)
 	   	
