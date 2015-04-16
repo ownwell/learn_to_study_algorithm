@@ -35,5 +35,12 @@
 就举个例子吧
 假设数组A = <5,2,4,6,1,3>
 
+
+
+
 ![image](http://ownwell.github.io/image/insert_sort.png)
+
+[附上java代码](https://github.com/ownwell/learn_to_study_algorithm/blob/master/java/src/me/cyning/algorithm/chapter2/InsertSort.java)
+
+其他代码可以在项目的文件夹下看到
 	   	
